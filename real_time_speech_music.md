@@ -4,7 +4,7 @@
 
 A real-time Speech/Music Classification project using Deep Neural Network and Convolutional Network. The code for the project is available [here](https://github.com/cksajil/MusicRJ)
 
-[![Alt text](https://img.youtube.com/vi/9X55T_ffNwg/0.jpg)]([https://www.youtube.com/watch?v=VID](https://www.youtube.com/watch?v=9X55T_ffNwg)
+[![Demo Video](https://img.youtube.com/vi/9X55T_ffNwg/0.jpg)](https://www.youtube.com/watch?v=9X55T_ffNwg)
 
 ![Block diagram](https://i.ibb.co/5Y11jkp/Block-DGMSmall.png)
 
