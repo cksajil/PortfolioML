@@ -2,7 +2,7 @@
 
 ### Project Details
 
-A real-time Speech/Music Classification project using Deep Neural Network and Convolutional Network. 
+A real-time Speech/Music Classification project using Deep Neural Network and Convolutional Network. The code for the project is available ![here](https://github.com/cksajil/MusicRJ)
 
 ![Block diagram](https://i.ibb.co/5Y11jkp/Block-DGMSmall.png)
 
