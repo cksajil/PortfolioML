@@ -56,3 +56,4 @@ Trainable params: 28,801,666
 Non-trainable params: 0
 _________________________________________________________________
 ```
+### [Click here to see complete demo video](https://www.youtube.com/watch?v=9X55T_ffNwg&t=685s)
